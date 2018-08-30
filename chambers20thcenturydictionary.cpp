@@ -14,7 +14,7 @@
 
 /**
  * The program instead of storing word as key and definition as value
- * in the map, it will store word as key, and a pair of definition statrin pointer
+ * in the map, it will store word as key, and a pair of definition starting pointer
  * and definition length as value.
  * 1. need a function to store definition in the tempfile and return a
  * pair of definition starting position and length
